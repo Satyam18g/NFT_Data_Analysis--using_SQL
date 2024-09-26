@@ -1,6 +1,7 @@
 
 
 
+
 # SQL-project: NFT Data Analysis Project
 
 ## Introduction
